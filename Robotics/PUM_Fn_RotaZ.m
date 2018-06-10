@@ -1,0 +1,9 @@
+function RotZ=PUM_Fn_RotaZ(alpha)
+
+%Función Rotación en Z
+
+
+RotZ=[cos(alpha) -sin(alpha) 0 0;...
+      sin(alpha)  cos(alpha) 0 0;...
+          0            0     1 0;...
+          0            0     0 1];

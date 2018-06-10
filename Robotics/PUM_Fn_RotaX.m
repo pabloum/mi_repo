@@ -1,0 +1,9 @@
+function RotX=PUM_Fn_RotaX(alpha)
+
+%Función Rotación en X
+
+
+RotX=[1     0           0      0;...
+      0 cos(alpha) -sin(alpha) 0;...
+      0 sin(alpha)  cos(alpha) 0;...
+      0     0           0      1];
