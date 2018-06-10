@@ -1,0 +1,120 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{imagen,
+  Title                    = {FEA and CComposite, Part 1},
+  Author                   = {Tony Abbey},
+  Journal                  = {Technology for Optimal Design Engineering},
+  Year                     = {2014},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.08}
+}
+
+@Article{cardenas,
+  Title                    = {Numerical validation of a finite element thin-walled beam model of a composite wind turbine blade},
+  Author                   = {Diego Cárdenas and Alejandro A. Escárpita and Hugo Elizalde and Juan José Aguirreand   Horacio Ahuett and Piergiovanni Marzocca and Oliver Probst},
+  Journal                  = {Wind Energy},
+  Year                     = {2012},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.09}
+}
+
+@Electronic{gwec,
+  Title                    = {How many wind turbines?},
+  Author                   = {Global Wind Energy Council},
+  Month                    = {August},
+  Url                      = {http://www.gwec.net/faqs/how-many-wind-turbines-world/},
+  Year                     = {2014},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.08}
+}
+
+@TechReport{nrel,
+  Title                    = {Unsteady Aerodynamics Experiment Phase VI: Wind Tunnel Test Configurations and Available Data Campaigns},
+  Author                   = {M. M. Hand and D. A. Simms and  L. J. Fingersh and J. R. Cotrell and S. Schreck and S. M Larwood},
+  Institution              = {NREL},
+  Year                     = {2001},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.09}
+}
+
+@Book{hull,
+  Title                    = {An introduction to composite materials},
+  Author                   = {Derek Hull},
+  Publisher                = {Reverté S.A.},
+  Year                     = {1987},
+
+  Address                  = {Barcelona},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.08}
+}
+
+@Conference{lawson,
+  Title                    = {International Conference on Ocean, Offshore and Artic Engineering},
+  Author                   = {M. J. Lawson and Y. Li and D. C. Sale},
+  Booktitle                = {Development and Verification of a Computational Fluid Dynamics Model of a Horizontal-Axis Tidal Current Turbines},
+  Year                     = {2011},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.08}
+}
+
+@Electronic{lin,
+  Title                    = {Composite Materials Overview for Engineers},
+  Author                   = {KuenY. Lin},
+  Month                    = {November},
+  Organization             = {Washington University},
+  Year                     = {2014},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.08}
+}
+
+@Electronic{Mish,
+  Title                    = {Composite Materials in Wind Turbine Technology},
+
+  Address                  = {Roskilde},
+  Author                   = {Leon Mishnaevsky},
+  Year                     = {2011},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.08}
+}
+
+@Article{sor,
+  Title                    = {Navier–Stokes Predictions of the NREL Phase VI Rotor in the NASA Ames 80 ft ð 120 ft Wind Tunnel},
+  Author                   = {N.N. Sørensen and J. A. Michelsen and S. Schreck},
+  Journal                  = {Wind Energy},
+  Year                     = {2002},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.09}
+}
+
+@Book{miravete,
+  Title                    = {Diseño y an{\'a}lisis de materiales compuestos},
+  Author                   = {Stephen W. Tsai and  Antonio Miravete},
+  Publisher                = {Revert{\'e} S.A.},
+  Year                     = {1988},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.09}
+}
+
+@Electronic{vas,
+  Author                   = {Naishadh G Vasjaliya and Sathya N.Gangadharan},
+  Month                    = {November},
+  Organization             = {University of Florida},
+  Url                      = {http://www2.mae.ufl.edu/mdo/Papers/5265.pdf},
+  Year                     = {2012},
+
+  Owner                    = {User},
+  Timestamp                = {2015.11.09}
+}
+

@@ -1,0 +1,49 @@
+The system is: Windows - 6.3.9600 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.14.26428/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Compilador de optimizaci¢n de C/C++ de Microsoft (R) versi¢n 19.14.26428.1 para x86
+(C) Microsoft Corporation. Todos los derechos reservados.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.14.26428.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/Programming/misPrimerosPasosC/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/Programming/misPrimerosPasosC/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_8c9eb\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_8c9eb.dir\build.make /nologo -L                  CMakeFiles\cmTC_8c9eb.dir\build
+Building C object CMakeFiles/cmTC_8c9eb.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @C:\Users\PABLO\AppData\Local\Temp\nm83B3.tmp
+testCCompiler.c
+Linking C executable cmTC_8c9eb.exe
+	"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8c9eb.dir --manifests  -- C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_8c9eb.dir\objects1.rsp @C:\Users\PABLO\AppData\Local\Temp\nm847F.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/Programming/misPrimerosPasosC/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_b4eba\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_b4eba.dir\build.make /nologo -L                  CMakeFiles\cmTC_b4eba.dir\build
+Building C object CMakeFiles/cmTC_b4eba.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\cl.exe @C:\Users\PABLO\AppData\Local\Temp\nm96AE.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_b4eba.exe
+	"C:\Program Files\JetBrains\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b4eba.dir --manifests  -- C:\PROGRA~2\MICROS~4\2017\COMMUN~1\VC\Tools\MSVC\1414~1.264\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_b4eba.dir\objects1.rsp @C:\Users\PABLO\AppData\Local\Temp\nm973C.tmp
+
+

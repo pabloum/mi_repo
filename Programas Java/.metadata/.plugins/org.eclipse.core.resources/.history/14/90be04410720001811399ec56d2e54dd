@@ -1,0 +1,13 @@
+
+import java.util.*; //habilitar otro paquete que no está por defecto 
+public class MeineZweiteProgramme {
+
+	public static void main(String[] args) {
+		
+	Scanner objeto;
+	
+	
+
+	}
+
+}

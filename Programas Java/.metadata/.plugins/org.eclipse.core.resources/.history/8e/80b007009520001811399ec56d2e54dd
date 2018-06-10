@@ -1,0 +1,28 @@
+
+import java.util.*; //habilitar otro paquete que no está por defecto. El * quiere decir que todas las clases del paquete
+
+import javax.swing.JOptionPane;
+public class MeineZweiteProgramme {
+
+	public static void main(String[] args) {
+		
+	/*Scanner entrada=new Scanner(System.in);;
+	
+	System.out.println("Introduce tu nombre");
+	String nombre=entrada.nextLine();
+	
+	System.out.println("Introduce tu edad");
+	int edad=entrada.nextInt();
+	
+	System.out.println("Hola, tu nombre es "+nombre+" y tu edad el año entrante será "+(edad+1));
+	*/
+	String Name=JOptionPane.showInputDialog("Your name please");
+	
+	String age=JOptionPane.showInputDialog("Your age please");
+	int edad=Integer.parseInt(age);
+	
+	System.out.println("Hallo, dein Name ist "+Name+" and your age is "+(edad-2));
+
+	}
+
+}

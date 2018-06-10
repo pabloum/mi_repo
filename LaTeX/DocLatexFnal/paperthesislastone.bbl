@@ -1,0 +1,131 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{icontec}
+Aerogeneradores: Requisitos de diseno para aerogeneradores pequenos (2009)
+
+\bibitem{ansys}
+Ansys, Inc. (2014)
+
+\bibitem{imagen}
+Abbey, T.: Fea and ccomposite, part 1.
+\newblock Technology for Optimal Design Engineering  (2014)
+
+\bibitem{arias}
+Arias, L.S., Vanegas, L.: Falla de los materiales compuestos láminados.
+\newblock Scientia et Technica  (2004)
+
+\bibitem{mat}
+Cepillo, D.I.S.: Diseño óptimo de laminados en materiales compuestos.
+  aplicación del mef y el método de las superficies de respuesta.
+\newblock Master's thesis, Escuela Técnica Superior de Ingeniería (2011)
+
+\bibitem{ijera}
+Chandrala, M., Choubey, A., Gupta, B.: Aerodynamic análysis of horizontal axis
+  wind turbine blade.
+\newblock International Journal of Engineering Research and Applications
+  (IJERA)  (2012)
+
+\bibitem{gwec}
+Council, G.W.E.: How many wind turbines? (2014).
+\newblock
+  \urlprefix\url{http://www.gwec.net/faqs/how-many-wind-turbines-world/}
+
+\bibitem{cardenas}
+Cárdenas, D., Escárpita, A.A., Elizalde, H., Ahuett, J.J.A.H., Marzocca, P.,
+  Probst, O.: Numerical validation of a finite element thin-walled beam model
+  of a composite wind turbine blade.
+\newblock Wind Energy  (2012)
+
+\bibitem{dahl}
+Dahl, A., Stolarski, H.: Modeling wind turbine blade for fluid/structure
+  interaction analysis.
+\newblock Tech. rep., EOLOS: Wind Energy Research Consortium (2012)
+
+\bibitem{dong}
+Dong, O.Y., Kwon, O.J.: Predicting wind turbine blade loads and aeroelastic
+  response using a coupled cfd-csd method.
+\newblock Renewable Energy  (2014)
+
+\bibitem{nrel}
+Hand, M.M., Simms, D.A., Fingersh, L.J., Cotrell, J.R., Schreck, S., Larwood,
+  S.M.: Unsteady aerodynamics experiment phase vi: Wind tunnel test
+  configurations and available data campaigns.
+\newblock Tech. rep., NREL (2001)
+
+\bibitem{hull}
+Hull, D.: An introduction to composite materials.
+\newblock Reverté S.A., Barcelona (1987)
+
+\bibitem{lawson}
+Lawson, M.J., Li, Y., Sale, D.C.: International conference on ocean, offshore
+  and artic engineering.
+\newblock In: Development and Verification of a Computational Fluid Dynamics
+  Model of a Horizontal-Axis Tidal Current Turbines (2011)
+
+\bibitem{lin}
+Lin, K.: Composite materials overview for engineers (2014)
+
+\bibitem{nata}
+Mandas, N., Cambuli, F., Carcangiu, C.E.: Numerical prediction of horizontal
+  axis wind turbine flow.
+\newblock The European Wind Energy Association (EWEA)  (2006)
+
+\bibitem{pcl}
+Mendoza-Nava, H., Talavera-Ortega, M., de~los Santos, F., S.Mendoza-Facio,
+  Jimenez-Arévalo, O.: Caracterización de materiales compuestos reforzados con
+  fibra de carbono fabricados por el método de infusión para aplicaciones
+  aeronáuticas.
+\newblock Memorias del XX Congreso Internacional Anual de la SOMIM  (2014)
+
+\bibitem{miravete2}
+Miravete, A.: Materiales Compuestos I.
+\newblock Revert{\'e} S.A. (2004)
+
+\bibitem{Mish}
+Mishnaevsky, L.: Composite materials in wind turbine technology (2011)
+
+\bibitem{hos}
+Rahmani, H., Najafi, S.H.M., Ashori, A.: Mechanical perdormance of epoxy/carbin
+  fiber laminated composites.
+\newblock Journal of Reinforced Plastics and Composites  (2014)
+
+\bibitem{calvo}
+Ramón, M.C.: Scattering analysis of a wind farm.
+\newblock Universidad Politécnica de Madrid  (2014)
+
+\bibitem{sor}
+Sørensen, N., Michelsen, J.A., Schreck, S.: Navier stokes predictions of the
+  nrel phase vi rotor in the nasa ames 80 ft ð 120 ft wind tunnel.
+\newblock Wind Energy  (2002)
+
+\bibitem{west}
+System, W.: Vacuum bagging techniques (2010)
+
+\bibitem{miravete}
+Tsai, S.W., Miravete, A.: Diseño y an{\'a}lisis de materiales compuestos.
+\newblock Revert{\'e} S.A. (1988)
+
+\bibitem{navarro}
+Távara, L., Mantic, V., Graciani, E., Cañas, J., París, F.: Modelado del
+  ccrecimiento de una grieta en modo i a lo largo de una interfaz débil
+  mediante el mec. aplicación al ensayo de fractura interlaminar de mateiales
+  compuestos.
+\newblock Anales de mecánica de la fractura  (2008)
+
+\bibitem{vas}
+Vasjaliya, N.G., N.Gangadharan, S.: Aero-structural design optimization of
+  composites wind turbine blade.
+\newblock Embry-Riddle Aeronautical University  (2012)
+
+\bibitem{zu}
+Zhu, Y.: Characterization of interlaminar fracture toughness of a carbon/epoxy
+  composite material.
+\newblock The Pennsylvania State University (2009)
+
+\end{thebibliography}

@@ -1,0 +1,20 @@
+
+import java.util.*; //habilitar otro paquete que no está por defecto. El * quiere decir que todas las clases del paquete
+public class MeineZweiteProgramme {
+
+	public static void main(String[] args) {
+		
+	Scanner entrada=new Scanner(System.in);;
+	
+	System.out.println("Introduce tu nombre");
+	String nombre=entrada.nextLine();
+	
+	System.out.println("Introduce tu edad");
+	int edad=entrada.nextLine();
+	
+	System.out.println("Hola, tu nombre es "+nombre+" y tu edad es "+edad);
+	
+
+	}
+
+}
